@@ -1,9 +1,9 @@
 # Личный проект «Девайс»
 
 * Студент: [Давид Лебедев](https://up.htmlacademy.ru/htmlcss/24/user/955755).
-* Наставник: `Неизвестно`.
+* Наставник:[Сергей Рубец] (https://htmlacademy.ru/profile/id41580)
 
----
+--
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
