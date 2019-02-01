@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Давид Лебедев](https://up.htmlacademy.ru/htmlcss/24/user/955755).
-* Наставник:[Сергей Рубец] (https://htmlacademy.ru/profile/id41580)
+* Наставник:[Сергей Рубец] (https://up.htmlacademy.ru/htmlcss/24/user/41580).
 
 --
 
